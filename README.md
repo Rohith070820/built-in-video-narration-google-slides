@@ -31,9 +31,9 @@ The case study explores how Google Slides can improve user experience and long-t
 | File | Description |
 |------|-------------|
 | [📄 Main Case Study](https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides%20.pdf) | Full case study write-up with problem statement, user pain points, competitive analysis, and MVP plan. |
-| [📊 Survey Analysis]([./survey-analysis-google-slides-video-narration.pdf](https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/Case%20Study%20Interpretation-%20Built-In%20Video%20Narration%20Feature%20for%20Google%20Slides.pdf)) | Interpretation of 40+ user responses validating the need for native video narration. |
-| [📝 Survey Form (Google Forms)]([./survey-form-google-slides-narration.pdf](https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/Exploring%20a%20New%20Feature_%20Built-In%20Video%20Narration%20in%20Google%20Slides%20-%20Google%20Forms.pdf)) | Original Google Form used to collect data from educators, students, and professionals. |
-| [📂 Survey Responses (CSV)]([./survey-responses-google-slides-narration.csv](https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/Exploring%20a%20New%20Feature%3A%20Built-In%20Video%20Narration%20in%20Google%20Slides.csv)) | Raw CSV export of participant responses (anonymous). |
+| [📊 Survey Analysis](https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/Case%20Study%20Interpretation-%20Built-In%20Video%20Narration%20Feature%20for%20Google%20Slides.pdf) | Interpretation of 40+ user responses validating the need for native video narration. |
+| [📝 Survey Form (Google Forms)](https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/Exploring%20a%20New%20Feature_%20Built-In%20Video%20Narration%20in%20Google%20Slides%20-%20Google%20Forms.pdf) | Original Google Form used to collect data from educators, students, and professionals. |
+| [📂 Survey Responses (https://github.com/Rohith070820/built-in-video-narration-google-slides/blob/main/Exploring%20a%20New%20Feature%3A%20Built-In%20Video%20Narration%20in%20Google%20Slides.csv) | Raw CSV export of participant responses (anonymous). |
 
 ---
 
